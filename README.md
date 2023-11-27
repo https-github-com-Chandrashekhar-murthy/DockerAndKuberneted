@@ -1,2 +1,2 @@
-# DockerAndKuberneted
+# DockerAndKubernetes
 Docker and kubernetes lab
